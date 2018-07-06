@@ -15,4 +15,7 @@ some of features:
 - sign-up and sign-in
 - send file
 - GUI with javafx
+- Implement graph with linked list
+- Has frined Suggestion and follow request (it won't save friend requests in database)  
+
 
